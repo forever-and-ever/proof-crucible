@@ -15,7 +15,7 @@ skill path:
 ```console
 mkdir my-campaign && cd my-campaign
 git init -b main
-git submodule add https://github.com/aoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoa/proof-crucible.git .crucible
+git submodule add https://github.com/forever-and-ever/proof-crucible.git .crucible
 .crucible/bin/crucible init --campaign my-campaign
 git add . && git commit -m 'Initialize Proof Crucible campaign'
 ```
