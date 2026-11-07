@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/aoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoa/proof-crucible/blob/main/protocol/1/event.schema.json",
+  "$id": "https://github.com/forever-and-ever/proof-crucible/blob/main/protocol/1/event.schema.json",
   "title": "Proof Crucible Protocol 1 event",
   "oneOf": [
     { "$ref": "#/$defs/obligation" },
